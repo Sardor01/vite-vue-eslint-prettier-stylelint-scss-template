@@ -1,0 +1,6 @@
+{
+  "plugins": ["stylelint-scss", "stylelint-prettier"],
+  "rules": {
+    "prettier/prettier": [true, { "singleQuote": true, "tabWidth": 2 }]
+  }
+}
